@@ -1,0 +1,20 @@
+{
+    "name": "QoLLibraries",
+    "version": "0.0.1",
+    "description": "Quality of Life Libraries for Micro:bit MakeCode",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "grid.ts",
+        "flash.ts",
+        "random.ts"
+    ],
+    "testFiles": [],
+    "targetVersions": {
+        "target": "6.0.0"
+    },
+    "supportedTargets": [
+        "microbit"
+    ]
+}
